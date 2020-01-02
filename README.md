@@ -1,15 +1,21 @@
-### Date created
-Include the date you created this project and README file.
+### Monday 2020-01-02
 
-### Project Title
-Replace the Project Title
+
+### Bike Share data Analysis
+
 
 ### Description
-Describe what your project is about and what it does
+Bike Share is a bicycle rental company based in New York, Chicago and Washington. 
+Our objective in this project is to be able to analyze data from these three cities 
+in order to determine the stations and peak periods in order to better coordinate logistics.
 
 ### Files used
-Include the files used
+
+chicago.csv
+Explore_bikeshare.html
+new_york_city.csv
+README.md
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://www.bikeshare.com/newslist/
